@@ -1,0 +1,14 @@
+.chrono-container {
+  width: 400px;
+  height: 600px;
+}
+.head {
+  color: #171f46;
+  font-size: 25px;
+  text-align: center;
+  font-family: 'Roboto';
+}
+.main-Container {
+  display: flex;
+  flex-direction: column;
+}

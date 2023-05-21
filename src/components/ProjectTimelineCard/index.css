@@ -1,0 +1,38 @@
+.project-container {
+  display: flex;
+  margin: 15px;
+}
+.image {
+  width: 250px;
+  height: 300px;
+}
+.content-middle {
+  display: flex;
+  justify-content: space-between;
+}
+.head {
+  color: #171f46;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.calendar {
+  width: 20px;
+  height: 20px;
+}
+.describe {
+  color: #171f46;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.description {
+  color: #1e293b;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.anchorElement {
+  color: #0967d2;
+  font-size: 18px;
+}
